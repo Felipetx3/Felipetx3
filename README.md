@@ -10,7 +10,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/luizfelipetx-dev/" target="_blank"><img align="center" heigth="100-" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luizfelipetx-dev/" target="_blank"><img align="center" heigth="80-" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
   
   
   
